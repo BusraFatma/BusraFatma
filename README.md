@@ -5,7 +5,6 @@ I enjoy programming different kinds of robots and testing my programs on hardwar
 
 <p align="center">
   <img width="460" height="300" src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">
-  <img width="460" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 - 
