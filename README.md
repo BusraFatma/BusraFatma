@@ -7,9 +7,6 @@ I enjoy programming different kinds of robots and testing my programs on hardwar
   
 </p>
 
-
-
-
 - 📫 How to reach me **busrafatma.8898@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
