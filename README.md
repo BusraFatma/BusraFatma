@@ -1,6 +1,6 @@
 <h1 align="center">Greetings to all 👋 I'm Büşra Fatma SUSUZ</h1>
 <img width="560" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- <img width="460" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
              
 <h3 align="center">I'm a Mechatronics Engineer. <br/>My job is to act as an automation and software engineer.
 I enjoy programming different kinds of robots and testing my programs on hardware. </h3>
