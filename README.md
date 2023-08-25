@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Oguzhan KAYMAKCI</h1>
-<h3 align="center">I am a Mechatronics Engineer. <br/>A passionate Full Stack Spring/ReactJs Developer </h3>
+<h1 align="center">Hello everyone 👋 I'm Büşra Fatma SUSUZ</h1>
+<h3 align="center">I am a Mechatronics Engineer. <br/>My job is to act as an automation and software engineer.
+I enjoy programming different kinds of robots and testing my programs on hardware. </h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+ // <img width="460" height="300" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
   <img width="460" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning **Java, Spring, React-JS**
+
 - 📫 How to reach me **Oguzhankaymakci001@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
