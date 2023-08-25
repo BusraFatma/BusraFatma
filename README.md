@@ -1,5 +1,6 @@
-*Greetings to all 👋 I'm Büşra Fatma SUSUZ*
-<h3 align="center">I am a Mechatronics Engineer. <br/>My job is to act as an automation and software engineer.
+<h1 align="center">Greetings to all 👋 I'm Büşra Fatma SUSUZ</h1>
+             
+<h3 align="center">I'm a Mechatronics Engineer. <br/>My job is to act as an automation and software engineer.
 I enjoy programming different kinds of robots and testing my programs on hardware. </h3>
 
 <p align="center">
