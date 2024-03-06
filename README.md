@@ -1,7 +1,6 @@
 <h1 align="center">Hello everyone I'm Büşra Fatma SUSUZ</h1><a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 <h3 align="center">I am a Mechatronics Engineer. <br/>My job is to act as an automation and software engineer.
 I enjoy programming different kinds of robots and testing my programs on hardware. </h3>
-<h1 align="center">Hello everyone I'm Büşra Fatma SUSUZ</h1><a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
